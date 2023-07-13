@@ -29,7 +29,7 @@ permalink: /about/
 
 ### 关于我
 
-现居合肥。计算摄像方向博士在读。
+现居合肥。博士在读。
 
 <!-- 现居上海。在为成为一流的研究者作准备。 -->
 
@@ -37,7 +37,7 @@ permalink: /about/
 
 个人主页：[ddlee.cc](https://ddlee.cc)
 
-学术主页：[ddlee-cn.github.io](https:/ddlee-cn.github.io)
+学术主页：[ddlee-cn.github.io](https://ddlee-cn.github.io)
 
 我的其他博客：
 <!-- - [ddlee每周分享](https://ddlee.cc/tech-weekly/about/)：每周推送我认为值得分享的信息 -->
