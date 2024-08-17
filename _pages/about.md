@@ -27,23 +27,6 @@ permalink: /about/
 
 --- -->
 
-### 关于我
-
-现居合肥。博士在读。
-
-<!-- 现居上海。在为成为一流的研究者作准备。 -->
-
-联系我的最佳方式是邮箱`me[at]ddlee[dot]cc`和[Telegram](https://t.me/ddleecn)，我鼓励您使用这两种方式跟我沟通交流。
-
-个人主页：[ddlee.cc](https://ddlee.cc)
-
-学术主页：[ddlee-cn.github.io](https://ddlee-cn.github.io)
-
-我的其他博客：
-<!-- - [ddlee每周分享](https://ddlee.cc/tech-weekly/about/)：每周推送我认为值得分享的信息 -->
-- [从前慢](https://ddlee.home.blog)：随笔和小说收纳处
-- [格物志](https://things.ddlee.cc)：致力于以简单、精准的语言解释事物
-
 ---
 
 更新于：2022.12
